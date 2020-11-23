@@ -18,8 +18,7 @@ int main(void)
 
     for(i = 0; i < 100000; i++)
     {
-        // If I remember correctly, appending \n is faster than endl but
-        // fuck you anyways
+        // If I remember correctly, appending \n is faster than endl but whatever
         std::cout << i << std::endl;
     }
 
