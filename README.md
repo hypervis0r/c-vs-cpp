@@ -51,7 +51,7 @@ C++: Average 0.0000040 seconds
 
 ## Test 3: Dynamic array operations
 C Code:
-```
+```c
 int testArr_size = 50;
 int *testArr = malloc(sizeof(*testArr) * testArr_size);
 int value = 0; 
