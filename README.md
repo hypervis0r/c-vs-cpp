@@ -45,7 +45,7 @@ test1 += test2;
 Time comparison:
 ```
 C: Average 0.0000015 seconds
-C++: Average 0.000004 seconds
+C++: Average 0.0000040 seconds
 ```
 ### C is the victor
 
